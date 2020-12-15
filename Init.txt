@@ -1,2 +1,2 @@
 Change your path to the folder on Git Bash
-~/Box Sync/Personal/Resume/PostPresales/APICourse/profiles-rest-api
+~/Box\ Sync/Personal/Resume/PostPresales/APICourse/profiles-rest-api
