@@ -1,2 +1,10 @@
 Change your path to the folder on Git Bash
-~/Box\ Sync/Personal/Resume/PostPresales/APICourse/profiles-rest-api
+cd ~/Box\ Sync/Personal/Resume/PostPresales/APICourse/profiles-rest-api
+
+Create Python virtual environment in ~/env directory (not synced to local machine)
+python -m venv ~/env
+source ~/env/bin/activate 	#activate environment
+deactivate			#deactivate environment
+
+
+
